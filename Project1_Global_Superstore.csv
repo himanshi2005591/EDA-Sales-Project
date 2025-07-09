@@ -1,0 +1,6 @@
+Order ID,Product Category,Sales,Profit,Region,Discount
+CA-10001,Furniture,500,120,West,0.1
+CA-10002,Technology,1000,300,East,0.2
+CA-10003,Office Supplies,200,20,South,0.0
+CA-10004,Furniture,700,150,Central,0.15
+CA-10005,Technology,300,-30,East,0.3

@@ -1,0 +1,6 @@
+Product,Region,Sales,Profit,Discount,Category,Date
+Product A,East,200,50,0.1,Furniture,2023-01-15
+Product B,West,300,80,0.2,Technology,2023-02-20
+Product C,South,150,30,0.05,Office Supplies,2023-03-10
+Product D,North,400,120,0.15,Technology,2023-04-05
+Product E,East,100,20,0.0,Furniture,2023-05-12
